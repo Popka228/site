@@ -1,0 +1,31 @@
+<html>
+  <body>
+    <header>
+      <nav>
+        <a href class = "yoy"> Снаряжение</a>
+        <h1> Страйкбол</h1>
+        <a href class = "yoy1"> Полигоны</a>
+      </nav>
+    </header>
+    <main>
+    <div class = "dif">
+    <p class = "airs"> Командная военно-тактическая игра на честность с применением специально разработанной мягкой пневматики </p>
+    </div>
+    <article class = "class">
+    <img class = "img1" src  = "https://www.vkpress.ru/upload/medialibrary/885/8854995154347598006527f7bf40df49.JPG">
+    </article> 
+    <div class = "mid">
+  <p class = "sund"> Игры в страйкболе делятся на два типа: </p>
+  </div>    
+
+    <article class = "i2"><p class = "sund1"> ВОСКРЕСКИ ОТКРЫТЫЕ</p>    <br/>
+    <img class = "img3" 
+    src = "https://sun9-71.userapi.com/impg/AXnjZsIB5BxRM-mpJ8BLzdjhE_tTP6YvlO6_lA/53DVpYFtT7Y.jpg?size=2560x1924&quality=95&sign=fc57ec3c82ce8d35142f9fefd30c7fd5&type=album">    </article>
+    <article class = "i1"> <p class = "day"> СУТОЧНЫЕ ЗАКРЫТЫЕ </p>
+    <img class = "img2" src  = "https://sun9-12.userapi.com/impg/jZOGIKibQ9vnp7dj8n5Py4K5ATIY-OnGFdkxIg/ATM7WDGZB2M.jpg?size=2560x1441&quality=95&sign=e20bef726d2782b7a82571af829ebbd5&type=album"></article>
+
+
+
+    </main>
+  </body>
+</html>
